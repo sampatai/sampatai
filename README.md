@@ -21,6 +21,7 @@ I follow SOLID principles to write maintainable and scalable code and ensure cod
 ### Tech Stack
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-%235C2D91.svg?style=for-the-badge&logo=dot-net&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-%234078C0.svg?style=for-the-badge&logo=dot-net&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-%235C2D91.svg?style=for-the-badge&logo=dot-net&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%234078C0.svg?style=for-the-badge&logo=dot-net&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
