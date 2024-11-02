@@ -28,33 +28,11 @@ I follow SOLID principles to write maintainable and scalable code and ensure cod
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-### Professional Experience
-- **Senior .NET Developer** at **Omnicom Media Group Nepal**  
-  *(Oct 2023 - Present)*  
-  - Led the development of data-centric applications using .NET Core and C#.
-  - Designed and implemented REST APIs and leveraged dependency injection, CQRS, and domain-driven design (DDD) principles.
-
-- **.NET Developer** at **Exolutus Pvt. Ltd.**  
-  *(Jun 2018 - Apr 2021)*  
-  - Developed and maintained applications using ASP.NET MVC, .NET Core 3.1, and Entity Framework Core.
-  - Implemented front-end features with JavaScript, jQuery, and HTML.
-
-- **.NET Developer** at **Channakya Software Pvt. Ltd.**  
-  *(May 2017 - Jun 2018)*  
-  - Focused on application design and implementation using ASP.NET MVC, DI Pattern, and T-SQL.
-
-- **.NET Developer** at **Softech Foundation**  
-  *(Mar 2016 - Feb 2017)*  
-  - Designed data-centric applications with a focus on maintainability and performance.
-
----
-
 ### Key Skills
 - **Backend Development**: .NET Core, C#, ASP.NET MVC, Web API, Entity Framework Core
 - **Database**: SQL Server, T-SQL
-- **Design & Architecture**: SOLID, DDD, CQRS
-- **Testing**: NUnit, Unit Testing
+- **Design & Architecture**: SOLID , Domain Driven Design, CQRS
+- **Testing**:  Unit Testing, Integration testing
 - **Messaging**: MassTransit
 - **DevOps & CI/CD**: Docker, Git
 
@@ -66,9 +44,7 @@ I follow SOLID principles to write maintainable and scalable code and ensure cod
 ---
 
 ### Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/sampat-adhikari)
-- 📧 [Email](mailto:sampatadhikari@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sampat-a-24662b90)
+- 📧 [Email](mailto:sampat.adhikari@gmail.com)
 
----
 
-I am an excellent communicator and team player, committed to delivering high-quality software products on time and within budget. I am a motivated and results-driven developer, passionate about learning new technologies and staying up-to-date with the latest industry trends.
