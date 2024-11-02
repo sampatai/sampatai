@@ -61,7 +61,7 @@ I follow SOLID principles to write maintainable and scalable code and ensure cod
 ---
 
 ### GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sampatai&show_icons=true&theme=radical)
 
 ---
 
