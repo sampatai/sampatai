@@ -5,7 +5,7 @@
 ---
 
 ### About Me
-As an experienced .NET developer with over 9 years of professional expertise, I have a proven track record in designing, developing, and maintaining scalable web applications and services using Microsoft technologies. My main technical strengths lie in C# and .NET Core, with a deep understanding of ASP.NET MVC, Web API, and Entity Framework Core. My database expertise includes SQL Server, and I am skilled in both database design and development.
+As an experienced .NET developer with over 4 years of professional expertise, I have a proven track record in designing, developing, and maintaining scalable web applications and services using Microsoft technologies. My main technical strengths lie in C# and .NET Core, with a deep understanding of ASP.NET MVC, Web API, and Entity Framework Core. My database expertise includes SQL Server, and I am skilled in both database design and development.
 
 I follow SOLID principles to write maintainable and scalable code and ensure code quality with unit testing. My experience also extends to message-based applications using MassTransit, which enables me to build robust and scalable architectures.
 
