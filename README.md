@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sampat Adhikari!
 
-**💻 Senior .NET Developer | 🌐 Tech Enthusiast | 🎓 Lifelong Learner**
+**💻 .NET Developer | 🌐 Tech Enthusiast | 🎓 Lifelong Learner**
 
 ---
 
