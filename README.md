@@ -2,7 +2,7 @@
 
 ### 💻 Full Stack .NET Developer | Angular | DDD | Clean Architecture | AWS | Docker | CI/CD
 
-![Profile Views](https://komarev.com/ghpvc/?username=sampatadhikari&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=sampatai&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
@@ -40,35 +40,20 @@ With over **9 years** of experience, I build scalable, testable full-stack solut
 
 ## 📈 GitHub Stats
 
-![Sampat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sampatadhikari&show_icons=true&theme=radical&border_radius=10&count_private=true)
+![Sampat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sampatai&show_icons=true&theme=radical&border_radius=10&count_private=true)
 
-![Sampat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sampatadhikari&theme=radical&hide_border=false&border_radius=10)
+![Sampat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sampatai&theme=radical&hide_border=false&border_radius=10)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sampatadhikari&bg_color=0d1117&color=F58A07&line=58A6FF&point=F8D210&area=true&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sampatai&bg_color=0d1117&color=F58A07&line=58A6FF&point=F8D210&area=true&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sampatadhikari&theme=gruvbox&margin-w=10&no-frame=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sampatai&theme=gruvbox&margin-w=10&no-frame=true)
 
 ---
 
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sampatadhikari&layout=compact&theme=gruvbox&hide_border=true)
-
----
-
-## 🌇 GitHub Skyline
-
-🎥 To generate your **3D GitHub Skyline**:  
-1. Visit [https://skyline.github.com](https://skyline.github.com)  
-2. Enter your GitHub username: `sampatadhikari`  
-3. Choose a year and download the `.gif`  
-4. Upload the `.gif` to your repo and embed it below:
-
-```md
-## 🌇 GitHub Skyline (3D Contribution)
-
-<img src="your-skyline.gif" width="100%" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sampatai&layout=compact&theme=gruvbox&hide_border=true)
