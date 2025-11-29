@@ -36,14 +36,12 @@ I’m passionate about building software that is **clean, maintainable, cloud-re
 ## 🎨 Frontend Engineering
 - **React**, TypeScript  
 - Hooks, Context API, modular UI architecture  
-- Tailwind CSS, Bootstrap  
 - Component-driven development  
 
 ## ☁️ Cloud & DevOps
 - **AWS** (Lambda, EC2, S3, RDS, API Gateway, CloudWatch)  
-- Docker, containerized microservices  
-- GitHub Actions, Octopus Deploy  
-- Terraform (experience)  
+- Docker 
+- GitHub Actions 
 
 ## 🔐 Security
 - OAuth2 / OpenID Connect  
@@ -71,25 +69,21 @@ I’m passionate about building software that is **clean, maintainable, cloud-re
 # 📂 Featured Projects
 
 ### 🚀 Multi-Tenant SaaS Platform  
-Clean Architecture + DDD based system with advanced policy-based authorization and tenant isolation.
+Clean Architecture + DDD based system with advanced policy-based authorization.
 
 ### 🔐 Identity & Authentication Platform  
 Enterprise-grade authentication using OpenIddict, OAuth2, OIDC, refresh tokens, and SSO.
 
-### 📊 Workforce Scheduling System  
-High-performance availability calendar API built in .NET with optimized SQL and caching.
-
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
-![Sampat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sampatai&show_icons=true&theme=radical&border_radius=10&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sampatai&show_icons=true&theme=radical&count_private=true)
 
-![Sampat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sampatai&theme=radical&hide_border=false&border_radius=10)
+![GitHub Streak](https://streak-stats.demolab.com?user=sampatai&theme=radical&hide_border=false&border_radius=10)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sampatai&bg_color=0d1117&color=F58A07&line=58A6FF&point=F8D210&area=true&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sampatai&theme=react-dark&hide_border=true)
 
----
 
 # 🏅 GitHub Trophies
 
@@ -110,12 +104,3 @@ High-performance availability calendar API built in .NET with optimized SQL and 
 
 ---
 
-### Want improvements?
-
-I can also create:
-- 📌 A more visual, designer-style README  
-- 🏗️ System architecture diagrams  
-- 🧱 Project cards with architecture + tech stack  
-- 🌐 Personal portfolio website (React)
-
-Just tell me!  
