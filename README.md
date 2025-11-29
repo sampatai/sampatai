@@ -1,44 +1,87 @@
-# 👋 Hi, I'm Sampat Adhikari
+# 👋 Hi, I'm **Sampat Adhikari**
 
-### 💻 Full Stack .NET Developer | Angular | DDD | Clean Architecture | AWS | Docker | CI/CD
+### **Senior Full Stack .NET Developer | React | Distributed Systems | Clean Architecture | AWS | DevOps**
+
+A results-driven engineer delivering scalable, secure and business-critical software for modern enterprise environments.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sampatai&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
-## 🧠 Skills & Expertise
+# 🚀 About Me
 
-### 👨‍💻 Backend  
-![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge&logo=dotnet)
-![Dapper](https://img.shields.io/badge/Dapper-1C1C1C?style=for-the-badge)
+I am a **Senior Full Stack .NET Developer** with **9+ years** of experience designing, architecting, and engineering enterprise-grade applications with a strong focus on performance, reliability, and clean architecture.
 
-### 💻 Frontend  
-![React](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+I specialise in:
 
-### ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Octopus Deploy](https://img.shields.io/badge/Octopus_Deploy-2F93E0?style=for-the-badge&logo=octopusdeploy&logoColor=white)
+- Building **distributed, multi-tenant SaaS systems**
+- Architecting solutions using **DDD, Clean Architecture, CQRS**
+- Developing full-stack applications using **.NET** and **React**
+- Implementing **secure authentication & authorization** (OpenIddict, OAuth2, OIDC, SSO)
+- Creating **DevOps pipelines**, cloud-native deployments, and automation workflows
+- Translating business requirements into scalable, long-term technical solutions
 
-### 🧪 Testing  
-![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge)
-![Moq](https://img.shields.io/badge/Moq-FF4088?style=for-the-badge)
-![Bogus](https://img.shields.io/badge/Bogus-1E1E1E?style=for-the-badge)
+I’m passionate about building software that is **clean, maintainable, cloud-ready**, and built to last.
 
 ---
 
-## 🚀 About Me
+# 🧠 Core Technical Skills
 
-With over **9 years** of experience, I build scalable, testable full-stack solutions using **.NET**, **Angular**, **DDD**, **Clean Architecture**, and **AWS DevOps**. I’m passionate about **automated pipelines**, clean code, and solving real-world business problems.
+## 🏗️ Backend Engineering
+- **.NET 6/7/8/9**, C#, REST APIs  
+- Domain-Driven Design (DDD), Clean Architecture, CQRS  
+- Entity Framework Core, Dapper  
+- Event-driven design & messaging patterns  
+
+## 🎨 Frontend Engineering
+- **React**, TypeScript  
+- Hooks, Context API, modular UI architecture  
+- Tailwind CSS, Bootstrap  
+- Component-driven development  
+
+## ☁️ Cloud & DevOps
+- **AWS** (Lambda, EC2, S3, RDS, API Gateway, CloudWatch)  
+- Docker, containerized microservices  
+- GitHub Actions, Octopus Deploy  
+- Terraform (experience)  
+
+## 🔐 Security
+- OAuth2 / OpenID Connect  
+- OpenIddict, Identity, JWT  
+- Best practices for API and cloud application security  
+
+## 🧪 Testing & Quality
+- xUnit, Moq, Bogus  
+- Unit, integration & API testing  
+- Performance tuning and code quality improvements  
 
 ---
 
-## 📈 GitHub Stats
+# 🏆 Highlights & Strengths
+
+- Architected and delivered **multi-tenant SaaS platforms** with modular access control  
+- Built **high-performance APIs** for scheduling, booking, and workforce systems  
+- Led codebase modernization using **DDD + Clean Architecture**  
+- Built modern **CI/CD pipelines** enabling automated, zero-downtime deployments  
+- Strong communication, documentation, and mentoring abilities  
+- Known for delivering **production-ready**, scalable solutions
+
+---
+
+# 📂 Featured Projects
+
+### 🚀 Multi-Tenant SaaS Platform  
+Clean Architecture + DDD based system with advanced policy-based authorization and tenant isolation.
+
+### 🔐 Identity & Authentication Platform  
+Enterprise-grade authentication using OpenIddict, OAuth2, OIDC, refresh tokens, and SSO.
+
+### 📊 Workforce Scheduling System  
+High-performance availability calendar API built in .NET with optimized SQL and caching.
+
+---
+
+# 📈 GitHub Stats
 
 ![Sampat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sampatai&show_icons=true&theme=radical&border_radius=10&count_private=true)
 
@@ -48,12 +91,31 @@ With over **9 years** of experience, I build scalable, testable full-stack solut
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏅 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sampatai&theme=gruvbox&margin-w=10&no-frame=true)
 
 ---
 
-## 📊 Most Used Languages
+# 🔤 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sampatai&layout=compact&theme=gruvbox&hide_border=true)
+
+---
+
+# 📫 Connect With Me
+
+- 🔗 LinkedIn: *[Add your link here](https://www.linkedin.com/in/sampat-ai/)*
+- 🌐 Portfolio / Blog: *Optional*
+
+---
+
+### Want improvements?
+
+I can also create:
+- 📌 A more visual, designer-style README  
+- 🏗️ System architecture diagrams  
+- 🧱 Project cards with architecture + tech stack  
+- 🌐 Personal portfolio website (React)
+
+Just tell me!  
