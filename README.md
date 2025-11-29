@@ -80,9 +80,10 @@ Enterprise-grade authentication using OpenIddict, OAuth2, OIDC, refresh tokens, 
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sampatai&show_icons=true&theme=radical&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sampatai&theme=radical&hide_border=false&border_radius=10)
+![GitHub Streak](https://streak-stats.doky.space?user=sampatai&theme=radical&hide_border=false)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sampatai&theme=react-dark&hide_border=true)
+
 
 
 # 🏅 GitHub Trophies
