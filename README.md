@@ -105,7 +105,7 @@ High-performance availability calendar API built in .NET with optimized SQL and 
 
 # 📫 Connect With Me
 
-- 🔗 LinkedIn: *[Add your link here](https://www.linkedin.com/in/sampat-ai/)*
+- 🔗 LinkedIn: *[Sampat Adhikari](https://www.linkedin.com/in/sampat-ai/)*
 - 🌐 Portfolio / Blog: *Optional*
 
 ---
