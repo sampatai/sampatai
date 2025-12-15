@@ -78,7 +78,7 @@ Enterprise-grade authentication and authorization platform using OpenIddict, OAu
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sampatai&show_icons=true&theme=radical&count_private=true)
 
-![GitHub Streak](https://streak-stats.doky.space?user=sampatai&theme=radical&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sampatai)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sampatai&theme=react-dark&hide_border=true)
 
