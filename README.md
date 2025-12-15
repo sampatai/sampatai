@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Sampat Adhikari**
 
-### **Senior Full Stack .NET Developer | React | Distributed Systems | Clean Architecture | AWS | DevOps**
+### **Senior Full Stack .NET Developer | React  | Clean Architecture  | DevOps**
 
 A results-driven engineer delivering scalable, secure and business-critical software for modern enterprise environments.
 
@@ -14,7 +14,6 @@ I am a **Senior Full Stack .NET Developer** with **9+ years** of experience desi
 
 I specialise in:
 
-- Building **distributed, multi-tenant SaaS systems**
 - Architecting solutions using **DDD, Clean Architecture, CQRS**
 - Developing full-stack applications using **.NET** and **React**
 - Implementing **secure authentication & authorization** (OpenIddict, OAuth2, OIDC, SSO)
@@ -57,7 +56,6 @@ I’m passionate about building software that is **clean, maintainable, cloud-re
 
 # 🏆 Highlights & Strengths
 
-- Architected and delivered **multi-tenant SaaS platforms** with modular access control  
 - Built **high-performance APIs** for scheduling, booking, and workforce systems  
 - Led codebase modernization using **DDD + Clean Architecture**  
 - Built modern **CI/CD pipelines** enabling automated, zero-downtime deployments  
