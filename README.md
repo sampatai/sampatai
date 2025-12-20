@@ -4,13 +4,12 @@
 
 A results-driven engineer who delivers scalable, secure, and business-critical software for modern enterprise environments.
 
-![Profile Views](https://komarev.com/ghpvc/?username=sampatai&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
 ## 🚀 About Me
 
-I am a Senior Full Stack .NET Developer with 9+ years of experience designing, architecting, and engineering enterprise-grade applications with a strong focus on performance, reliability, and maintainability.
+I am a  Full Stack .NET Developer with 9+ years of experience designing, architecting, and engineering enterprise-grade applications with a strong focus on performance, reliability, and maintainability.
 
 I specialize in:
 
@@ -61,17 +60,6 @@ I’m passionate about building software that is clean, maintainable, cloud-read
 - Implemented CI/CD pipelines enabling automated, zero-downtime deployments
 - Strong communication, documentation, and mentoring abilities
 - Deliver production-ready, scalable solutions with a focus on maintainability
-
----
-
-## 📂 Featured Projects
-
-### Multi-Tenant SaaS Platform
-A Clean Architecture + DDD based system with advanced policy-based authorization, tenant isolation, and scalable multi-tenant data strategies.
-
-### Identity & Authentication Platform
-Enterprise-grade authentication and authorization platform using OpenIddict, OAuth2/OIDC flows, refresh tokens, and SSO integrations.
-
 ---
 
 ## 📈 GitHub Stats
@@ -84,21 +72,11 @@ Enterprise-grade authentication and authorization platform using OpenIddict, OAu
 
 ---
 
-## 🏅 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sampatai&theme=gruvbox&margin-w=10&no-frame=true)
-
----
 
 ## 🔤 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sampatai&layout=compact&theme=gruvbox&hide_border=true)
 
 ---
-
-## 📫 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/sampat-ai/
-- Portfolio / Blog: (add link if you have one)
 
 ---
