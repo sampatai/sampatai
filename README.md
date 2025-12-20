@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sampat Adhikari
 
-### Senior Full Stack .NET Developer | React | Clean Architecture | DevOps
+###  Full Stack .NET Developer | React | Clean Architecture | DevOps
 
 A results-driven engineer who delivers scalable, secure, and business-critical software for modern enterprise environments.
 
@@ -9,7 +9,7 @@ A results-driven engineer who delivers scalable, secure, and business-critical s
 
 ## 🚀 About Me
 
-I am a  Full Stack .NET Developer with 9+ years of experience designing, architecting, and engineering enterprise-grade applications with a strong focus on performance, reliability, and maintainability.
+I am a  Full Stack .NET Developer with over 9+ years of experience designing, architecting, and engineering enterprise-grade applications with a strong focus on performance, reliability, and maintainability.
 
 I specialize in:
 
@@ -34,7 +34,7 @@ I’m passionate about building software that is clean, maintainable, cloud-read
 ### 🎨 Frontend Engineering
 - React, TypeScript
 - Hooks, Context API, component-driven architecture
-- Reusable component libraries and modular UI design
+- Reusable component libraries
 
 ### ☁️ Cloud & DevOps
 - AWS (Lambda, EC2, S3, RDS, API Gateway, CloudWatch)
@@ -44,7 +44,7 @@ I’m passionate about building software that is clean, maintainable, cloud-read
 ### 🔐 Security
 - OAuth2, OpenID Connect (OIDC)
 - OpenIddict, Identity, JWT
-- API and cloud security best practices
+
 
 ### 🧪 Testing & Quality
 - xUnit, Moq, Bogus
@@ -76,7 +76,5 @@ I’m passionate about building software that is clean, maintainable, cloud-read
 ## 🔤 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sampatai&layout=compact&theme=gruvbox&hide_border=true)
-
----
 
 ---
