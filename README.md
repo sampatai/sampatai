@@ -53,6 +53,5 @@ I translate complex business requirements into scalable, long-term technical sol
 
 ## 📫 How to Reach Me  
 
-- LinkedIn: [your-linkedin-handle](https://www.linkedin.com/)  
 - GitHub: [sampatai](https://github.com/sampatai)  
 - Location: Clayfield, Queensland, Australia  
