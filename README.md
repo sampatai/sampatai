@@ -1,80 +1,58 @@
-# 👋 Hi, I'm Sampat Adhikari
+# 👋 Hi, I'm Sampat Adhikari  
 
-###  Full Stack .NET Developer | React | Clean Architecture | DevOps
+### Full Stack .NET Developer · React · Clean Architecture · DevOps  
 
-A results-driven engineer who delivers scalable, secure, and business-critical software for modern enterprise environments.
-
-
----
-
-## 🚀 About Me
-
-I am a  Full Stack .NET Developer with over 9+ years of experience designing, architecting, and engineering enterprise-grade applications with a strong focus on performance, reliability, and maintainability.
-
-I specialize in:
-
-- Architecting solutions using Domain-Driven Design (DDD), Clean Architecture, and CQRS
-- Building full-stack applications with .NET (C#) and React (TypeScript)
-- Implementing secure authentication & authorization (OpenIddict, OAuth2, OIDC, SSO)
-- Creating DevOps pipelines, cloud-native deployments, and automation workflows
-- Translating business requirements into scalable, long-term technical solutions
-
-I’m passionate about building software that is clean, maintainable, cloud-ready, and built to last.
+A results-driven **engineer** delivering scalable, secure, and business-critical software for modern enterprise environments.  
 
 ---
 
-## 🧠 Core Technical Skills
+## 🚀 About Me  
 
-### 🏗️ Backend Engineering
-- .NET 6/7/8/9, C#, REST APIs
-- Domain-Driven Design (DDD), Clean Architecture, CQRS
-- Entity Framework Core, Dapper
-- Event-driven design & messaging patterns
-
-### 🎨 Frontend Engineering
-- React, TypeScript
-- Hooks, Context API, component-driven architecture
-- Reusable component libraries
-
-### ☁️ Cloud & DevOps
-- AWS (Lambda, EC2, S3, RDS, API Gateway, CloudWatch)
-- Docker, containerization
-- GitHub Actions, CI/CD pipelines
-
-### 🔐 Security
-- OAuth2, OpenID Connect (OIDC)
-- OpenIddict, Identity, JWT
-
-
-### 🧪 Testing & Quality
-- xUnit, Moq, Bogus
-- Unit, integration, and API testing
-- Performance tuning and code quality improvements
+I am a Full Stack .NET Developer with 9+ years of experience designing and engineering enterprise-grade applications with a strong focus on performance, reliability, and maintainability.  
+I translate complex business requirements into scalable, long-term technical solutions that are clean, cloud-ready, and built to last.  
 
 ---
 
-## 🏆 Highlights & Strengths
+## 🧠 Core Technical Skills  
 
-- Built high-performance APIs for scheduling, booking, and workforce systems
-- Led codebase modernization using DDD and Clean Architecture
-- Implemented CI/CD pipelines enabling automated, zero-downtime deployments
-- Strong communication, documentation, and mentoring abilities
-- Deliver production-ready, scalable solutions with a focus on maintainability
+### 🏗️ Backend Engineering  
+- .NET 6/7/8/9, C#, REST APIs  
+- Domain-Driven Design (DDD), Clean Architecture, CQRS  
+- Entity Framework Core, Dapper  
+- Event-driven design and messaging patterns  
+
+### 🎨 Frontend Engineering  
+- React, TypeScript  
+- Hooks, Context API, component-driven architecture  
+- Reusable component libraries and UI composition  
+
+### ☁️ Cloud & DevOps  
+- AWS: Lambda, EC2, S3, RDS, API Gateway, CloudWatch  
+- Docker and containerization  
+- GitHub Actions and CI/CD pipelines  
+
+### 🔐 Security & Identity  
+- OAuth2, OpenID Connect (OIDC)  
+- OpenIddict, ASP.NET Identity, JWT-based auth  
+
+### 🧪 Testing & Quality  
+- Unit and integration testing in .NET  
+- Testable architecture and SOLID principles  
+- Code review, refactoring, and continuous improvement  
+
 ---
 
-## 📈 GitHub Stats
+## 💼 What I Enjoy Building  
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sampatai&show_icons=true&theme=radical&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sampatai)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sampatai&theme=react-dark&hide_border=true)
-
----
-
-
-## 🔤 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sampatai&layout=compact&theme=gruvbox&hide_border=true)
+- End-to-end, production-ready SaaS platforms  
+- Secure, multi-tenant APIs with rich authorization models  
+- Cloud-native systems with automation, observability, and resilience  
+- Developer-friendly architectures that scale with teams and products  
 
 ---
+
+## 📫 How to Reach Me  
+
+- LinkedIn: [your-linkedin-handle](https://www.linkedin.com/)  
+- GitHub: [sampatai](https://github.com/sampatai)  
+- Location: Clayfield, Queensland, Australia  
